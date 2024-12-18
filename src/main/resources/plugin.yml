@@ -2,3 +2,12 @@ name: PremiumAdvancements
 version: '1.1-SNAPSHOT'
 main: skyxnetwork.premiumAdvancements.PremiumAdvancements
 api-version: '1.20'
+commands:
+  premiumadvancements:
+    aliases: [ padv ]
+    description: Command for PremiumAdvancements plugin.
+    usage: /<command>
+dependencies:
+  - UltimateAdvancementAPI
+  - Vault
+  - PlaceholderAPI
