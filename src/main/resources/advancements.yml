@@ -1,0 +1,14 @@
+advancements:
+  example_advancement:
+    name: "First Advancement"
+    description: "This is your first custom advancement!"
+    icon: "DIAMOND"
+    x: 0
+    y: 0
+
+  another_advancement:
+    name: "Another Task"
+    description: "Complete this task to proceed."
+    icon: "IRON_INGOT"
+    x: 1
+    y: -1
